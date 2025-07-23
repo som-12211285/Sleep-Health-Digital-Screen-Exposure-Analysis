@@ -67,4 +67,4 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/) and contains anony
 
 **Somtirtha Chakraborty**  
 🔗 [LinkedIn](https://www.linkedin.com/in/somtirthachakraborty18)  
-📫 chakrabortysomtirtha@gmail.com  
+📫 [Gmail](chakrabortysomtirtha@gmail.com)  
