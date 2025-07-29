@@ -1,4 +1,4 @@
-# 💤 Sleep Health and Digital Screen Exposure Analysis
+# 💤 Sleep Health and Digital Screen Exposure Risk Prediction
 
 A comprehensive data science project that investigates the impact of digital screen exposure on sleep health. The project combines exploratory data analysis (EDA), statistical visualizations, and machine learning techniques to identify patterns and predict sleep quality based on screen time and other lifestyle factors.
 
